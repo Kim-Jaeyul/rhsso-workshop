@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 var keycloak = new Keycloak({
-    realm: 'demo',
+    realm: 'OpenShift',
     clientId: 'demo-app'
 });
 
